@@ -11,26 +11,18 @@ pip install pygame==2.1.0  gym==0.25.0
 
 # Demo
 详见 `demo` 目录
-<center>
-	<img src="./demo/snap1.png" width="30%" />
-	<img src="./demo/snap2.png" width="30%" />
-	<br/>
-	<font color="AAAAAA">001.jpg</font>
-	<font color="AAAAAA">002.jpg</font>
-</center>
-<br/>
 
 <table rules="none" align="center">
 	<tr>
 		<td>
 			<center>
-				<img src="./demo/snap1.png" width="30%" /> <br/>
+				<img src="./demo/snap1.png" width="60%" /> <br/>
 				<font color="AAAAAA"> demo1</font>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="./demo/snap2.png" width="30%" /> <br/>
+				<img src="./demo/snap2.png" width="60%" /> <br/>
 				<font color="AAAAAA"> demo2</font>
 			</center>
 		</td>
