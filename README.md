@@ -4,7 +4,7 @@
 本仓库仅包含仿真环境代码，具体算法需要读者自己设计。运行效果见`demo`目录。
 
 
-# Dependencies
+# Dependency
 ```sh
 pip install pygame==2.1.0  gym==0.25.0
 ```
