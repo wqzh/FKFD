@@ -1,6 +1,6 @@
 
 # Description
-防空反导 (Air Defense and Missile Defense)，一种基于Pygame, Gym的强化学习环境. 可用于训练多智能体火力单元分配策略的学习。\
+防空反导 (Air and Missile Defense, FKFD)，一种基于Pygame, Gym的强化学习环境. 可用于训练多智能体火力单元分配策略的学习。\
 本仓库仅包含仿真环境代码，具体算法需要读者自己设计。运行效果见`demo`目录。
 
 
